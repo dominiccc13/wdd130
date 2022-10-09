@@ -1,0 +1,22 @@
+body{text-align: center;}
+nav{
+    background-color: aqua;
+    padding: 10px;
+}
+a{
+    color: rgb(0, 0, 0);
+    margin: 200px;
+}
+h1 {
+    color: aqua;
+  }
+  img {
+    width: 800px;
+  }
+  p {
+    padding: 10px;
+  }
+  footer {
+    background-color: aqua;
+    color: white;
+  }
