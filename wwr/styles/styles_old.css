@@ -9,12 +9,15 @@ nav a{
     text-decoration: none;
     color: white;
 }
+
 nav a:hover{
     background-color: darkslategray; opacity: 35%;
 }
+
 footer p{
     font-size: 1.4em;
 }
+
 #hero_img {
     display: block;
     margin: 0 auto;
@@ -25,6 +28,7 @@ footer p{
 #hero_msg h1{
     text-align: center;
 }
+
 #hero_msg h4{
     text-align: center; 
 }
@@ -40,6 +44,7 @@ main section {
 #background{
     height: 725px;
 }
+
 body{background: aqua;}
 header{background-color: steelblue; margin-top: 3%;}
 nav a:hover {background-color: steelblue;}
