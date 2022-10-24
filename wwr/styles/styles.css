@@ -80,9 +80,8 @@ main {
     padding-bottom: 20px;
 }
 
-.blank-space {
-    padding-top: 300px;
-    padding-bottom: 300px;
+.empty-div {
+    height: 600px;
     background-color: #5EC2B7;
 }
 
@@ -97,6 +96,9 @@ main {
     line-height: 1.5em;
     background-color: #c4e8e4;
     padding-bottom: 120px;
+    text-align: center;
+    padding-left: 200px;
+    padding-right: 200px;
 }
 
 footer {
