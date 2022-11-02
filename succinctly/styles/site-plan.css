@@ -2,7 +2,7 @@
 Any spaces in your font name should be replaced with a +. 
 Fonts are separated by a | */
 
-/* Title Font: Raleway Light 300 */
+    /* Title Font: Raleway Light 300 */
 @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300&display=swap');
     /* Body Font: Roboto Regular 400 */
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
@@ -10,30 +10,30 @@ Fonts are separated by a | */
 
 :root {
   /* change the values below to your colors from your palette */
-  --primary-color: #BDADEA   ;
-  --secondary-color: #A37871 ;
-  --accent1-color: #4E4B5C;
-  --accent2-color: #BEA2C2;
+--primary-color: #BDADEA   ;
+--secondary-color: #A37871 ;
+--accent1-color: #4E4B5C;
+--accent2-color: #BEA2C2;
 
   /* change the values below to your chosen font(s) */
-  --heading-font: "Raleway";
-  --paragraph-font: "Roboto";
+--heading-font: "Raleway";
+--paragraph-font: "Roboto";
 
-  /* these colors below should be chos  en from among your palette colors above */
-  --headline-color-on-white: #BDADEA;  /* headlines on a white background */ 
-  --headline-color-on-color: white; /* headlines on a colored background */ 
-  --paragraph-color-on-white: #A37871; /* paragraph text on a white background */ 
-  --paragraph-color-on-color: white; /* paragraph text on a colored background */ 
-  --paragraph-background-color: #A37871  ;
-  --nav-link-color: white;
-  --nav-background-color: #4E4B5C;
-  --nav-hover-link-color: white;
-  --nav-hover-background-color: #396E94;
+  /* these colors below should be chosen from among your palette colors above */
+--headline-color-on-white: #BDADEA;  /* headlines on a white background */ 
+--headline-color-on-color: white; /* headlines on a colored background */ 
+--paragraph-color-on-white: #A37871; /* paragraph text on a white background */ 
+--paragraph-color-on-color: white; /* paragraph text on a colored background */ 
+--paragraph-background-color: #A37871  ;
+--nav-link-color: white;
+--nav-background-color: #4E4B5C;
+--nav-hover-link-color: white;
+--nav-hover-background-color: #396E94;
 }
 
 
-/*  Look around below...but DON'T CHANGE ANYTHING! */
 
+    /*  Look around below...but DON'T CHANGE ANYTHING! */
 #logo {
     width: 25%;
 }

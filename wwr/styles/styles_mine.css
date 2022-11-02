@@ -6,10 +6,6 @@
 
 
 
-
-
-
-    /* Body Stuff */
 * {
     font-family: 'Roboto', sans-serif;
     font-size: 20px;
@@ -20,14 +16,6 @@
 h1 {
     font-family: 'Bebas Neue', sans-serif;
     font-size: 2.5em;
-}
-
-
-h2 {
-    font-family: 'Bebas Neue', sans-serif;
-    font-size: 2.5em;
-    padding-bottom: 10px;
-    margin: 0px;
 }
 
 
@@ -47,7 +35,6 @@ header a {
 .logo {
     height: 50px;
     border-radius: 50%;
-    z-index: 5;
 }
 
 
@@ -64,7 +51,6 @@ header a {
     grid-row: 1/4;
     z-index: 1;
     width: 100%;
-    background-color: #c4e8e4;
 }
 
 #hero-msg-bg {
@@ -112,10 +98,13 @@ header a {
     font-size: 1.5em;
 }
 
+h2 {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 2.5em;
+    padding-bottom: 10px;
+    margin: 0px;
+}
 
-
-
-    /* Main */
 main {
     border: 0px solid green;
     margin: 0 auto;
@@ -142,13 +131,9 @@ main {
     padding-bottom: 20px;
 }
 
-
-
-
-    /* Below Main */
 .empty-div {
     height: 600px;
-    background-color: #c4e8e4;
+    background-color: #5EC2B7;
 }
 
 .blank-space-2 {
