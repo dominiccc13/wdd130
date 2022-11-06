@@ -35,7 +35,9 @@ Fonts are separated by a | */
   color: #A37871;
 }
 
-
+.huge-image {
+  max-width: 500px;
+}
 
     /*  Look around below...but DON'T CHANGE ANYTHING! */
 #logo {
